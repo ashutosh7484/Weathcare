@@ -54,9 +54,6 @@ Set up environment variables:
 Create a .env file in the root directory.
 Add API keys for OpenWeatherMap and GPT API as follows:
 makefile
-Copy code
-OPENWEATHER_API_KEY=your_openweather_api_key
-GPT_API_KEY=your_gpt_api_key
 Run the application:
 
 bash
