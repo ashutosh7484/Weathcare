@@ -1,7 +1,3 @@
-
-For your WeathCare project, a good README file should provide a clear, structured overview of the project, along with instructions on how to set up, use, and contribute to it. Here’s a sample outline you can follow for the README:
-
-WeathCare
 WeathCare is a project designed to provide users with weather-based care recommendations. Using weather data and personalized suggestions, it offers valuable advice to keep users safe and comfortable based on current and forecasted weather conditions.
 
 Table of Contents
